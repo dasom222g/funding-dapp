@@ -1,0 +1,5 @@
+node_modules
+artifacts
+res
+.env
+.DS_Store
