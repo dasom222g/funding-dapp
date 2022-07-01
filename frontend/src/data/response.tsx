@@ -17,7 +17,7 @@ export const walletList: WalletClassType[] = [
   {
     id: 1,
     type: 'META_MASK',
-    title: 'METAMASK',
+    title: 'MetaMask',
   },
   // {
   //   id: 2,
