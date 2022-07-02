@@ -58,7 +58,7 @@ const Header: FC = () => {
               </Link>
             </div>
           </div>
-          <div className="hidden md:block md:ml-auto md:space-x-8">
+          {/* <div className="hidden md:block md:ml-auto md:space-x-8">
             {navigation.map((item) => (
               <Link
                 key={item.name}
@@ -67,7 +67,7 @@ const Header: FC = () => {
                 {item.name}
               </Link>
             ))}
-          </div>
+          </div> */}
           <div className="pr-2 md:pr-4">
             <button
               type="button"
