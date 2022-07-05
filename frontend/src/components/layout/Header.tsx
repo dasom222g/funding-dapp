@@ -54,7 +54,7 @@ const Header: FC = () => {
                   src="./images/logo_text.svg"
                   alt="Meta aid Logo"
                 />
-                <span className="sr-only">Meta aid</span>
+                <span className="sr-only">Funding</span>
               </Link>
             </div>
           </div>
